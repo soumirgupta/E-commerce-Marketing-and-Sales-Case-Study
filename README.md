@@ -18,7 +18,7 @@
 -  follow these steps:
 -  Install the required dependencies: pip install pandas jupyter
 -  Launch Jupyter Notebook: jupyter notebook
--  Open the project notebook: Ecommerce_Project_Pandas.ipynb
+-  Open the project notebook: E_commerce_Case_Study.ipynb
 - Run the notebook cells to execute the code and explore the data analysis techniques.
 # 🗂️ Dataset
 The project utilizes multiple datasets containing information about customer purchases, customer details, marketing spends, offers used and tax details.
